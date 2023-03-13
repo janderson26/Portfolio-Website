@@ -912,7 +912,7 @@ a:hover {
   position: absolute;
   left: 50%; /* Set the left edge of the button to the middle of the container */
   transform: translateX(-50%); /* Move the button to the left by half of its width */
-  bottom: .5rem; /* Set the distance from the bottom edge of the container */
+  bottom: 0rem; /* Set the distance from the bottom edge of the container */
   margin: 0; /* Remove the top and bottom margin */
   text-align: center;
   text-decoration: none;
